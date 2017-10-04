@@ -1,0 +1,9 @@
+#+TITLE: A spider for asmHentai and more
+#+Authtor: Grox AI
+
+* Run the spider:
+ #+BEGIN_SRC  bash
+ pip install scrapy
+ scrapy crawl mangalink -o data/asmspider.jl
+ #+END_SRC
+ 
